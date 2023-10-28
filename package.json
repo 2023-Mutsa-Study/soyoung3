@@ -1,0 +1,15 @@
+{
+  "name": "s",
+  "version": "1.83.1",
+  "description": "",
+  "main": "ffrf",
+  "scripts": {
+    "test": "f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f"
+  },
+  "author": "ff",
+  "license": "ISC"
+}
